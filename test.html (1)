@@ -1,0 +1,9 @@
+<form>
+  <select name="favorite_fruit">
+    <option value="apple">Apple</option>
+    <option value="banana">Banana</option>
+    <option value="cherry">Cherry</option>
+    <option value="date">Date</option>
+    <option value="elderberry">Elderberry</option>
+  </select>
+</form>
